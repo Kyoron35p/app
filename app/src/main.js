@@ -5,7 +5,7 @@ import App from './App.vue'
 Vue.config.productionTip = false
 
 // 我giao 测试测试分支
-// 哦？试试看看代码合并时的冲突，现在是master分支哦
+// 怎么肥四，我的master的修改。。。 我直接hot-fix一个冲突，看你用哪个
 
 new Vue({
   render: h => h(App),
