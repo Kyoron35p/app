@@ -7,7 +7,7 @@
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
-
+// 试试拉取
 export default {
   name: 'App',
   components: {
