@@ -1,13 +1,18 @@
 <template>
   <div>
-    <h2>我是根组件</h2>
+    <!-- <Header></Header> -->
   </div>
 </template>
 
 <script>
+// 引入Header组件
+// import Header from './components/Header';
 
 export default {
-  name: 'App'
+  name: 'App',
+  components:{
+    // Header
+  }
 }
 </script>
 
